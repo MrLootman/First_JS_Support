@@ -9,7 +9,7 @@ const yourName = prompt("Quel est votre prénom ?");
 // ? Deuxième exercice
 
 // Tu vas devoir lancer une alerte JavaScript seulement si l'utilisateur a renseigné une valeur dans l'input !
-// Sinon, tu peux renvoyer un message de bienvenue avec le nom renseigné dans l'input 😊
+// Sinon, tu peux renvoyer disant qu'il faut renseigner une valeur 😊
 
 // ? Troisième exercice
 
