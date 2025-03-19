@@ -8,8 +8,9 @@ const yourName = prompt("Quel est votre prénom ?");
 
 // ? Deuxième exercice
 
-// Tu vas devoir lancer une alerte JavaScript seulement si l'utilisateur a renseigné une valeur dans l'input !
-// Sinon, tu peux renvoyer disant qu'il faut renseigner une valeur 😊
+// Tu vas devoir lancer une alerte JavaScript de façon conditionnelle. 
+// Si l'utilisateur a renseigné une valeur dans l'input, tu renvoyer une alerte avec un message de bienvenue et le nom !
+// Sinon, tu peux renvoyer un message disant que le champ ne doit pas être vide 😊
 
 // ? Troisième exercice
 
@@ -17,7 +18,7 @@ const yourName = prompt("Quel est votre prénom ?");
 
 // ? Quatrième exercice
 
-// Tu vas vérifier si l'âge est supérieur ou égale à 18 ans.
+// Tu vas vérifier si l'âge est supérieur ou égale à 18.
 // Si tel est le cas, tu renverras une alerte déclarant : "Tu es majeur !"
 // Si tel n'est pas le cas, tu renverras une alerte déclarant : "Tu es mineur !".
 
